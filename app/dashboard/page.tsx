@@ -1,8 +1,8 @@
-import { Card } from '@/app/dashboard/cards';
-import RevenueChart from '@/app/dashboard/revenue-chart';
-import LatestInvoices from '@/app/dashboard/latest-invoices';
-import { lusitana } from '@/app/ui/font';
- 
+import { Card } from "@/app/dashboard/cards";
+import RevenueChart from "@/app/dashboard/revenue-chart";
+import LatestInvoices from "@/app/dashboard/latest-invoices";
+import { lusitana } from "@/app/ui/fonts";
+
 export default async function Page() {
   return (
     <main>
